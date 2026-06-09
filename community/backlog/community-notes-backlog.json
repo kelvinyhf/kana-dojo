@@ -4,7 +4,7 @@
     "file": "docs/community-notes/contribution-notes-1.md",
     "position": "bottom",
     "text": "- Community note: this file is used for lightweight contribution practice.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -12,8 +12,10 @@
     "file": "docs/community-notes/contribution-notes-2.md",
     "position": "top",
     "text": "> Community note: this page intentionally accepts tiny formatting-safe edits.",
-    "issued": false,
-    "completed": false
+    "issued": true,
+    "completed": false,
+    "completedBy": "Rahulchaube1",
+    "completedPR": 19932
   },
   {
     "id": 3,

@@ -24,7 +24,7 @@
       "Kairo"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -123,7 +123,7 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 10,
@@ -137,7 +137,7 @@
     ],
     "correctIndex": 2,
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 11,
@@ -361,7 +361,7 @@
     ],
     "correctIndex": 1,
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 27,
@@ -402,7 +402,7 @@
       "Sendai"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -557,7 +557,7 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 41,
@@ -1004,7 +1004,7 @@
       "Hokuriku"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1606,7 +1606,7 @@
       "Romaji"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1634,7 +1634,7 @@
       "Kiku"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1676,7 +1676,7 @@
       "Osaka Castle"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
